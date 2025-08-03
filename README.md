@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kareem Badr</h1>
 <h3 align="center">Software Engineer | Passionate about .NET Development, Java Spring Boot & Clean Architecture</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<p align="center">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KareemBadr&label=Profile%20views&color=0e75b6&style=flat" alt="KareemBadr" />
@@ -73,29 +75,4 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/KareemBadr/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=KareemBadr&hide_border=true&show_icons=true&theme=default" alt="Kareem's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/KareemBadr/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemBadr&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-stud
